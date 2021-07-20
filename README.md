@@ -1,2 +1,2 @@
-# Generatinon bounding boxes and segmentation masks on pistols
+# Detectron2
 Generating bounding boxes and segmentation masks on pistols
